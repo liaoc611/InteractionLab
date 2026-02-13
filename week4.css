@@ -1,8 +1,10 @@
 body{
+    text-align: center;
     margin: 50px;
-    color: orange;
+    color: tomato;
+    text-shadow: 0 0 10px orange;
     background-color: antiquewhite;
-    font-size: 100px;
-    font-family: fantasy;
+    font-size: 80px;
+    font-family:cursive;
     font-weight: bold;
 }
