@@ -2,11 +2,11 @@ body{
     text-align: center;
     margin: 50px;
     color: tomato;
-    text-shadow: 0 0 10px orange;
+    text-shadow: 0 0 10px #9a3427;
     background-color: antiquewhite;
     font-size: 80px;
     font-family:cursive;
     font-weight: bold;
-    background-image: url(/img/caroline.jpg);
-    background-size: cover;
+    background-image:    linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 59%, rgba(0, 0, 0, 0.65) 100%), url(/img/caroline.jpg);
+    background-size: 100vw;
 }
