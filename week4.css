@@ -12,3 +12,11 @@ body{
     mix-blend-mode:screen;
 }
 
+
+#youtube{
+height: 50px;
+
+}
+* {
+  cursor: url('https://cdn.cursors-4u.net/css-previews/lights-of-heaven-appstarting-73af8baa-css.webp') 3 2, auto !important;
+}
