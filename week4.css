@@ -7,4 +7,6 @@ body{
     font-size: 80px;
     font-family:cursive;
     font-weight: bold;
+    background-image: url(/img/caroline.jpg);
+    background-size: cover;
 }
