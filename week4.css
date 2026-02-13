@@ -2,4 +2,7 @@ body{
     margin: 50px;
     color: orange;
     background-color: antiquewhite;
+    font-size: 100px;
+    font-family: fantasy;
+    font-weight: bold;
 }
